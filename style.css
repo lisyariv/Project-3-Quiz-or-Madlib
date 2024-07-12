@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+#GuessTheNumber{
+   border-style: dotted;
+  border-width: 3px;
+  border-color: lightcoral;
+  width: 700px;
+  padding: 15px;
+}
+
+#answer, #reactionPhoto{
+  border-style: dotted;
+  border-width: 3px;
+  border-color: lightcoral;
+  width: 700px;
+  padding: 15px;
+}
+
+h1{
+  font-family: 'Sigmar', cursive;
+  font-size: 40px;
+  color: #a980db;
+}
+
+
+p{
+  font-family: 'Sigmar', cursive;
+  font-size:30px;
+  color: #a980db
+}
+
+
+img{
+  width: 500px;
+}
